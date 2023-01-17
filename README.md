@@ -1,6 +1,6 @@
 # Logic-Gate-Terminal-Program
 
-This project will show my understanding of logic gates to make a logic gate program. 
+This project will show my understanding of logic gates to make a logic gate program in the termninal (with no fancy visuals).
 
 **The program does the following:**
 * Takes two inputs 
